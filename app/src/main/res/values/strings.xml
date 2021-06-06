@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="retry">Retry</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="username">%s %s %s</string>
+    <string name="address">%d, %s\' %s\", %s, %s"</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="member_declined_message">Member Declined</string>
+    <string name="member_accepted_message">Member Accepted</string>
+</resources>
