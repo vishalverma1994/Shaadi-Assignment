@@ -16,7 +16,7 @@
         android:theme="@style/Theme.Assingment"
         android:usesCleartextTraffic="true">
         <activity android:name=".ui.activity.MainActivity"
-            android:screenOrientation="nosensor">
+            android:configChanges="orientation|screenSize|keyboardHidden">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
